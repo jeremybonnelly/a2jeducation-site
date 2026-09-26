@@ -6,7 +6,7 @@ This is the website of the Access to Justice Education Initiative (A2JEI). It is
 
 | File / folder | What it is |
 |---|---|
-| `index.html` | **All the English text is here.** Edit this file to change the wording. |
+| `index.html` / `fr/index.html` | **The English / French text is here.** Edit this file to change the wording. |
 | `css/styles.css` | Colours, fonts and layout. The brand colours are at the top, under `:root`. |
 | `js/main.js` | Small interactions: the menu, highlighting the current section, fade-in effects. You shouldn't need to touch it. |
 | `assets/img/` | A2JEI logos, favicon, and the preview image shown when someone shares the link. |
@@ -30,6 +30,7 @@ This is the website of the Access to Justice Education Initiative (A2JEI). It is
 
 ## Still to do
 
-- [ ] French version (`fr/index.html`). The FR button in the menu already points to it.
 - [ ] Final cover → `assets/report/cover.png`
 - [ ] Report PDF → `assets/report/building-the-a2j-lawyer.pdf`
+- [ ] French cover → `assets/report/cover-fr.png`
+- [ ] French report PDF → `assets/report/former-les-juristes-pour-l-acces-a-la-justice.pdf`
