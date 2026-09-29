@@ -18,19 +18,19 @@ This is the website of the Access to Justice Education Initiative (A2JEI). It is
 
 ## Common updates
 
-**Replace the report cover.** Save the real cover as `assets/report/cover.png`, keeping exactly that name, and overwrite the placeholder. A JPG works too: save it as `cover.jpg`, then in `index.html` change `cover.png` to `cover.jpg`. For best results, use a width of about 850 px.
+**Replace a report cover.** Save the new image over `assets/report/cover.jpg` (English) or `assets/report/cover-fr.jpg` (French), keeping the same name. About 850 × 1100 px works best.
 
-**Add the report PDF.** Save it as `assets/report/building-the-a2j-lawyer.pdf`. The download button already points to that file.
+**Replace a PDF.** Save the new file over the old one with exactly the same name:
+- English report: `assets/report/building-the-a2j-lawyer.pdf`
+- French report: `assets/report/former-les-juristes-pour-l-acces-a-la-justice.pdf`
+- Course outline and resources: `assets/course/a2j-course-outline-part1-en.pdf` and `assets/course/a2j-plan-de-cours-partie1-fr.pdf`
 
-**Change some text.** Open `index.html` in a text editor such as VS Code or TextEdit (in plain-text mode). Use Find to locate the sentence and change only the words between the tags.
+**Change some text.** Open `index.html` (English) or `fr/index.html` (French) in a text editor such as VS Code or TextEdit (in plain-text mode). Use Find to locate the sentence and change only the words between the tags.
 
-**Preview your changes before publishing.** Double-click `index.html` to open it in your browser. Everything works this way except the language toggle.
+**Preview your changes.** Double-click `index.html` to open it in your browser.
 
-**Publish your changes.** Upload the changed files to the GitHub repository (see the publishing guide). The live site updates within about a minute.
+**Publish your changes.** Upload the changed files to the GitHub repository. The live site updates within about a minute.
 
 ## Still to do
 
-- [ ] Final cover → `assets/report/cover.png`
-- [ ] Report PDF → `assets/report/building-the-a2j-lawyer.pdf`
-- [ ] French cover → `assets/report/cover-fr.png`
-- [ ] French report PDF → `assets/report/former-les-juristes-pour-l-acces-a-la-justice.pdf`
+Nothing outstanding.
